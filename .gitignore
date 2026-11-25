@@ -1,0 +1,7 @@
+# İşletim sistemi ve editör dosyaları
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.bak
+*.drawio.bkp
