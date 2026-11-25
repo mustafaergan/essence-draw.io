@@ -9,8 +9,8 @@ hazırlandı.
 ## İçerik
 
 `essence.xml`, draw.io'nun `mxlibrary` biçiminde 9 şekil içerir: kart (`card`), yıldız, SysML sinyal gönderme
-(chevron) şekli, yuvarlak köşeli (`terminator`) kutulardan oluşan gruplar ve birkaç büyük şablon grubu. Şekillerde
-yazı yoktur; çizgi ve yazı rengi yeşil (`#33FF33`) olarak ayarlanmıştır.
+(chevron) şekli, yuvarlak köşeli (`terminator`) kutulardan oluşan mavi, sarı ve yeşil renkli gruplar ve birkaç büyük şablon grubu. Şekillerde
+yazı yoktur; yazı rengi yeşil (`#33FF33`) olarak ayarlanmıştır.
 
 ## Kullanım
 
